@@ -11,7 +11,6 @@ The goal of this task is to preprocess a raw dataset and prepare it for machine 
 ## 🛠 Tools & Libraries
 - Python
 - Pandas
-- NumPy
 - Scikit-learn
 
 ## ⚙️ Preprocessing Steps
