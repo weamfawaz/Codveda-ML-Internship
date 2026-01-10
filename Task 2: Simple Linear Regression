@@ -1,0 +1,30 @@
+# Task 2: Simple Linear Regression
+
+## Objective
+Build a simple linear regression model to predict house prices using a single feature.
+
+## Dataset
+- **Name:** House Prediction Dataset (Boston Housing Dataset)
+- **Target Variable:** PRICE
+- **Feature Used:** RM (Average number of rooms per dwelling)
+
+## Steps Performed
+1. Loaded and explored the dataset  
+2. Preprocessed the data  
+3. Split data into training and testing sets  
+4. Trained a Linear Regression model  
+5. Evaluated the model using MSE and R² score  
+6. Visualized actual vs predicted values  
+
+## Tools Used
+- Python  
+- Pandas  
+- Scikit-learn  
+- Matplotlib  
+
+## Results
+- Mean Squared Error (MSE): Calculated  
+- R² Score: Evaluated  
+
+## Conclusion
+The model shows a positive linear relationship between the number of rooms and house prices, demonstrating the effectiveness of simple linear regression for continuous value prediction.
